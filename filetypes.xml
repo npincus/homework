@@ -2,6 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="softcase2" type="PLAIN_TEXT" />
+      <mapping pattern="sofecase1" type="PLAIN_TEXT" />
+      <mapping pattern="edgeCase3" type="PLAIN_TEXT" />
+      <mapping pattern="edgeCase2" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
