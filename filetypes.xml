@@ -4,6 +4,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="softcase2" type="PLAIN_TEXT" />
       <mapping pattern="testcase1" type="PLAIN_TEXT" />
+      <mapping pattern="testcase5" type="PLAIN_TEXT" />
       <mapping pattern="sofecase1" type="PLAIN_TEXT" />
       <mapping pattern="edgeCase3" type="PLAIN_TEXT" />
       <mapping pattern="edgeCase2" type="PLAIN_TEXT" />
