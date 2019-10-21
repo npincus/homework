@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Kotlin/Add labeled return to last expression in a lambda" />
+  </component>
+</application>
