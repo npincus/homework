@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'cs2401'" />
-    <option name="defaultScopeName" value="Project 'cs2401'" />
+    <option name="customScope" value="File '...\src\state\State.java [oop]'" />
+    <option name="defaultScopeName" value="File '...\src\state\State.java [oop]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'cs2401'" />
+    <option name="SEARCH_SCOPE" value="File '...\src\state\State.java [oop]'" />
   </component>
 </application>
