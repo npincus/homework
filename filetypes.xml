@@ -21,6 +21,7 @@
       <mapping pattern="invintory2" type="PLAIN_TEXT" />
       <mapping pattern="invintory1" type="PLAIN_TEXT" />
       <mapping pattern="family3" type="PLAIN_TEXT" />
+      <mapping pattern="7x7_3" type="PLAIN_TEXT" />
       <mapping pattern="7x7_1" type="PLAIN_TEXT" />
       <mapping pattern="7x7" type="PLAIN_TEXT" />
       <mapping pattern="testcase5" type="PLAIN_TEXT" />
