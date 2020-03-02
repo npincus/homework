@@ -3,11 +3,13 @@
     <extensionMap>
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern="softcase2" type="PLAIN_TEXT" />
+      <mapping pattern="invintory3" type="PLAIN_TEXT" />
       <mapping pattern="edgeCase3" type="PLAIN_TEXT" />
       <mapping pattern="edgeCase2" type="PLAIN_TEXT" />
       <mapping pattern="5x5_3" type="PLAIN_TEXT" />
       <mapping pattern="5x5_2" type="PLAIN_TEXT" />
       <mapping pattern="5x5_0" type="PLAIN_TEXT" />
+      <mapping pattern="7x7" type="PLAIN_TEXT" />
       <mapping pattern="sofecase1" type="PLAIN_TEXT" />
       <mapping pattern="inventory4" type="PLAIN_TEXT" />
       <mapping pattern="request4" type="PLAIN_TEXT" />
@@ -17,13 +19,11 @@
       <mapping pattern="5x5_1s" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="invintory4" type="PLAIN_TEXT" />
-      <mapping pattern="invintory3" type="PLAIN_TEXT" />
       <mapping pattern="invintory2" type="PLAIN_TEXT" />
       <mapping pattern="invintory1" type="PLAIN_TEXT" />
       <mapping pattern="family3" type="PLAIN_TEXT" />
       <mapping pattern="7x7_3" type="PLAIN_TEXT" />
       <mapping pattern="7x7_1" type="PLAIN_TEXT" />
-      <mapping pattern="7x7" type="PLAIN_TEXT" />
       <mapping pattern="testcase5" type="PLAIN_TEXT" />
       <mapping pattern="testcase4" type="PLAIN_TEXT" />
       <mapping pattern="testcase3" type="PLAIN_TEXT" />
