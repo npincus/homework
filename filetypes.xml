@@ -31,6 +31,7 @@
       <mapping pattern="testcase3" type="PLAIN_TEXT" />
       <mapping pattern="testcase2" type="PLAIN_TEXT" />
       <mapping pattern="testcase1" type="PLAIN_TEXT" />
+      <mapping pattern="eed57b256d0ff8522f371875ca0a054a8b1daf1925a368c6c08b874cfa552a53" type="XML" />
     </extensionMap>
   </component>
 </application>
