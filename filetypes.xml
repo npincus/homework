@@ -1,37 +1,39 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="empty" type="PLAIN_TEXT" />
-      <mapping pattern="softcase2" type="PLAIN_TEXT" />
-      <mapping pattern="invintory3" type="PLAIN_TEXT" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="edgeCase3" type="PLAIN_TEXT" />
-      <mapping pattern="edgeCase2" type="PLAIN_TEXT" />
-      <mapping pattern="5x5_3" type="PLAIN_TEXT" />
-      <mapping pattern="5x5_2" type="PLAIN_TEXT" />
-      <mapping pattern="5x5_0" type="PLAIN_TEXT" />
-      <mapping pattern="7x7" type="PLAIN_TEXT" />
-      <mapping pattern="sofecase1" type="PLAIN_TEXT" />
-      <mapping pattern="inventory4" type="PLAIN_TEXT" />
       <mapping pattern="request4" type="PLAIN_TEXT" />
+      <mapping pattern="edgeCase2" type="PLAIN_TEXT" />
       <mapping pattern="request3" type="PLAIN_TEXT" />
       <mapping pattern="request2" type="PLAIN_TEXT" />
       <mapping pattern="request1" type="PLAIN_TEXT" />
-      <mapping pattern="5x5_1s" type="PLAIN_TEXT" />
+      <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="invintory4" type="PLAIN_TEXT" />
+      <mapping pattern="5x5_1s" type="PLAIN_TEXT" />
+      <mapping pattern="inventory4" type="PLAIN_TEXT" />
+      <mapping pattern="7x7" type="PLAIN_TEXT" />
+      <mapping pattern="softcase2" type="PLAIN_TEXT" />
+      <mapping pattern="family3" type="PLAIN_TEXT" />
+      <mapping pattern="5x5_0" type="PLAIN_TEXT" />
+      <mapping pattern="5x5_3" type="PLAIN_TEXT" />
+      <mapping pattern="5x5_2" type="PLAIN_TEXT" />
+      <mapping pattern="invintory3" type="PLAIN_TEXT" />
+      <mapping pattern="sofecase1" type="PLAIN_TEXT" />
       <mapping pattern="invintory2" type="PLAIN_TEXT" />
       <mapping pattern="invintory1" type="PLAIN_TEXT" />
-      <mapping pattern="family3" type="PLAIN_TEXT" />
       <mapping pattern="7x7_3" type="PLAIN_TEXT" />
       <mapping pattern="7x7_1" type="PLAIN_TEXT" />
-      <mapping pattern="testcase5" type="PLAIN_TEXT" />
-      <mapping pattern="testcase4" type="PLAIN_TEXT" />
-      <mapping pattern="testcase3" type="PLAIN_TEXT" />
+      <mapping pattern="invintory4" type="PLAIN_TEXT" />
       <mapping pattern="testcase2" type="PLAIN_TEXT" />
+      <mapping pattern="testcase3" type="PLAIN_TEXT" />
+      <mapping pattern="testcase4" type="PLAIN_TEXT" />
+      <mapping pattern="testcase5" type="PLAIN_TEXT" />
       <mapping pattern="testcase1" type="PLAIN_TEXT" />
       <mapping pattern="eed57b256d0ff8522f371875ca0a054a8b1daf1925a368c6c08b874cfa552a53" type="XML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
